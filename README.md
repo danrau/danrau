@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Dan 👋
 
-<!--
-**danrau/danrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a High School student, Arch Linux user, and aspiring Computer Science major passionate about system tools, algorithms, and open-source development.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **OS:** Arch Linux 
+- **Languages:** Python, C++, Java, Bash
+- **Shell & Tools:** Fish Shell, Git, Vim/Neovim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Focus
+- Preparing for Competitive Programming & CS Contests
+- Building Linux CLI utilities and system automation tools
+- Exploring Open Source projects
+
+---
+*Targeting Computer Science B.S. | 2026–2029 Journey* 
